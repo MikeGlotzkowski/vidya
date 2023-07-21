@@ -1,0 +1,6 @@
+openai
+nltk
+pyshorteners
+spacy
+gTTS
+moviepy
